@@ -55,7 +55,8 @@ h1{
     height: 545px;
     margin: 15px;
     margin-bottom:42px;
-    margin-left: 32.5%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 40px;
     border-radius: 0.5%;
 }
@@ -65,7 +66,8 @@ h1{
     width: 425px;
     height: 545px;
     margin-bottom:42px;
-    margin-left: 32.5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .post3 {
@@ -73,14 +75,16 @@ h1{
     width: 425px;
     height: 545px;
     margin-bottom:42px;
-    margin-left: 32.5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .post4 {
     background-color: white;
     width: 425px;
     height: 545px;
-    margin-left: 32.5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .postHeader {
