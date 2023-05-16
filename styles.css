@@ -1,0 +1,113 @@
+
+body {
+    background-color: rgb(205, 204, 204);
+    font-family: "Comic Neue";
+}
+
+/**** This will be header top section ****/
+#header {
+    background-color: white;
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(248, 202, 245);
+    margin-bottom: 0;
+}
+
+#wrapper1 {
+    background-color: white;
+    padding: 6px;
+}
+
+h1{
+    color: rgb(10, 3, 3);
+    text-align: center;
+}
+
+#instaLogo {
+    color: #ff38ac;
+    padding-left: 10px;
+}
+/**** This will be header top section ****/
+
+/**** This will be web body section ****/
+#webBody {
+    background-color: rgb(254, 207, 171);
+    border-style: solid;
+    border: 10px;
+    margin: auto;
+    height: 2410px;
+
+}
+
+#wrapper2 {
+    background-color: rgb(237, 234, 234);
+    height: 2380px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0;
+    display: block;
+    
+}
+
+.post1 {
+    background-color: white;
+    width: 425px;
+    height: 545px;
+    margin: 15px;
+    margin-bottom:42px;
+    margin-left: 32.5%;
+    margin-top: 40px;
+    border-radius: 0.5%;
+}
+
+.post2 {
+    background-color: white;
+    width: 425px;
+    height: 545px;
+    margin-bottom:42px;
+    margin-left: 32.5%;
+}
+
+.post3 {
+    background-color: white;
+    width: 425px;
+    height: 545px;
+    margin-bottom:42px;
+    margin-left: 32.5%;
+}
+
+.post4 {
+    background-color: white;
+    width: 425px;
+    height: 545px;
+    margin-left: 32.5%;
+}
+
+.postHeader {
+    display: flex;
+    background-color: white;
+}
+
+.postHeader :first-child {
+    margin-left: 3%;
+    font-weight: bold;
+}
+
+.postHeader :nth-child(2) {
+    color: grey;
+    position: absolute;
+    margin-left: 370px;
+}
+
+img {
+    object-fit: cover;
+    width: 425px;
+    height: 425px;
+    display: block;
+  }
+
+.postCaption {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+/**** This will be web body section ****/
